@@ -51,12 +51,11 @@ Data Centers - It contains physical infrastructure like,
 
 6. What is Route Table
     - Route Tables tells AWS the detination where the it has to send the request.
-    Destination	    Target	                              Description
-    -----------     ------                                ------------
-    10.0.0.0/16	    local	                              Routes traffic within the VPC    (internal communication).
-    0.0.0.0/0	    igw-xxxxxxxx (Internet Gateway)	      Routes traffic to/from the   internet.
-    10.1.0.0/16	    pcx-xxxxxxxx (VPC Peering)	          Routes traffic to another VPC via peering connection.
-    0.0.0.0/0	    nat-xxxxxxxx (NAT Gateway)	          Routes traffic from private subnet to the internet.
+
+    - 10.0.0.0/16 -local - Routes traffic within the VPC    (internal communication).
+    - 0.0.0.0/0	- igw-xxxxxxxx (Internet Gateway) - Routes traffic to/from the   internet.
+    - 10.1.0.0/16 - pcx-xxxxxxxx (VPC Peering) - Routes traffic to another VPC via peering connection.
+    - 0.0.0.0/0	- nat-xxxxxxxx (NAT Gateway) - Routes traffic from private subnet to the internet.
 
 
 
