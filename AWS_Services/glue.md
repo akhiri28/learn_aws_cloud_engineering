@@ -6,3 +6,6 @@ Data Catelogue - Data Sources -> Crwaler -> Data Catalogue (Meta Data)
 
 
 Glue ETL
+
+
+![Glue POC](<../images/Glue POC.jpg>)
