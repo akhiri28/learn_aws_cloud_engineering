@@ -19,3 +19,6 @@ Redshift --> airport_dim (dim table) -- (load from airport_dim.csv)
 
 s3 bucket --> airport_dim.csv
           --> daily_files --> event bridge rule (capture the event) --> trigger step function --> glue   crawler (wait for success) --> trigger glue job (join operations)  --> failed (SNS. Failed notification) | success (store in flight _fact table.)
+
+
+![data ingestion pod](<../images/Data Ingestion Project.jpg>)
