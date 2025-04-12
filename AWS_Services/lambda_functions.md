@@ -1,1 +1,1 @@
-![POC - Lambda Project](<images/Lambda Functions Simple POC.jpg>)
+![Lambda Function - POC](<../images/Lambda Functions Simple POC.jpg>)
