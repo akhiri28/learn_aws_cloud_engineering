@@ -1,0 +1,1 @@
+![POC - Lambda Project](<images/Lambda Functions Simple POC.jpg>)
