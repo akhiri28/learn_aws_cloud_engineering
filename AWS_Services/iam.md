@@ -1,4 +1,18 @@
+AWS has provided IAM service for Authentication and Authorization.
+IAM - Identifty Access Management.
 
+Using IAM, the entities like Users, Groups, Policies and Roles can be created.
+
+Creating a User does Authentication work. The user created will have credentials to login to the AWS account.
+Policies provide the authorization to perform action on the AWS resources.
+
+Good Practise is to create a group with some policies attached. Every time a new user joins the organization we can add the user to the group. 
+The user will get all the authorization of the group.
+
+Roles - In general roles is used to connect AWS service to applications / services on Premise.
+      - It can also be used to connect 2 different AWS accounts.
+
+![IAM](../images/IAM.jpg)
 
 Interview Questions
 -------------------
