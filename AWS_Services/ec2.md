@@ -66,3 +66,79 @@ How to Use EC2?
 - Configure Instance - (Instance Type, Network Settings, Storage, security groups, key pairs).
 - Accessing and troubleshooting using SSH (Secure Shell).
 - Monitor instance performance and utilization.
+
+Interview Questions
+-------------------
+
+Set 1
+
+1. What is Amazon EC2?
+
+2. How does Amazon EC2 work?
+
+3. What are the different instance types in EC2?
+
+4. Explain the differences between on-demand, reserved, and spot instances.
+
+5. How can you improve the availability of EC2 instances?
+
+6. What is an Amazon Machine Image (AMI)?
+
+7. How can you secure your EC2 instances?
+
+8. Explain the difference between public IP and Elastic IP in EC2.
+
+9. How can you scale your application using EC2?
+
+10. What is Amazon EBS?
+
+11. How can you encrypt data on EBS volumes?
+
+12. How can you back up your EC2 instances?
+
+13. What is the difference between instance store and EBS-backed instances?
+
+14. What are instance metadata and user data in EC2?
+
+15. How can you launch instances in a Virtual Private Cloud (VPC)?
+
+16. What is the purpose of an EC2 security group?
+
+17. How can you automate the deployment of EC2 instances?
+
+18. How can you achieve high availability for an application using EC2?
+
+19. What is Amazon Machine Learning (Amazon ML)?
+
+20. What is Amazon EC2 Instance Connect?
+
+
+Set 2
+
+1. What is Amazon EC2, and why is it used?
+
+2. What types of EC2 instances are available, and how should one choose?
+
+3. How does EC2 Auto Scaling help in managing application availability and scalability?
+
+4. You need to deploy a web application on EC2 instances across multiple Availability
+Zones to ensure high availability. Describe how you would architect this setup.
+
+5. Explain the process and considerations for optimizing EC2 instances for both cost and
+performance when deploying a compute-intensive application.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

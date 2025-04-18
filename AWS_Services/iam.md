@@ -16,6 +16,47 @@ Roles - In general roles is used to connect AWS service to applications / servic
 
 Interview Questions
 -------------------
+1. What is AWS Identity and Access Management (IAM)?
+
+2. What are the key components of AWS IAM?
+
+3. How does AWS IAM work?
+
+4. What is the difference between authentication and authorization in AWS IAM?
+
+5. How can you secure your AWS account using IAM?
+
+6. How do IAM users differ from IAM roles?
+
+7. What is an IAM policy?
+
+8. What is the AWS Management Console?
+
+9. How does IAM manage access keys?
+
+10. What is the purpose of IAM groups?
+
+11. What is the role of an IAM policy document?
+
+12. How can you grant permissions to an IAM user?
+
+13. How can you delegate permissions to AWS services using IAM roles?
+
+14. What is cross-account access in AWS IAM?
+
+15. How does IAM support identity federation?
+
+16. What is the purpose of an IAM access advisor?
+
+17. How does IAM enforce the principle of least privilege?
+
+18. What is the difference between IAM policies and resource-based policies?
+
+19. How can you implement multi-factor authentication (MFA) in IAM?
+
+20. What is the IAM policy evaluation logic?
+
+
 - Q: What is AWS IAM, and why is it important?
 - A: IAM - Identity and Access Management System, is a service is access control and security management service proivided by AWS.
    It helps to create and manage entities to access to AWS Resources. This helps only autherized entities can aaccess AWS resources and thus reducing the security risks.
